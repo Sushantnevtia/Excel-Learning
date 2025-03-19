@@ -2,13 +2,13 @@
 
 Welcome to my Excel portfolio! This repository showcases a range of sample Excel files that demonstrate my skills in data analysis, spreadsheet design, and advanced Excel functions. Each file is designed as a practice exercise or project, reflecting various aspects of data analytics using Excel.
 
-- [Spreadsheets_Intro](#spreadsheets_intro)
+- [Spreadsheets_Intro](#Spreadsheets_Intro)
   - Worksheets
   - Workbooks
   - Ribbon
   - Menu
   - Keyboard Shortcuts
-- [Formulas & Functions](#formulas--functions)
+- [Formulas & Functions](#Formulas_Functions)
   - Formulas
   - Functions
   - Logical Functions
@@ -17,40 +17,37 @@ Welcome to my Excel portfolio! This repository showcases a range of sample Excel
   - Lookup Functions
   - Math Functions
   - Statistical Functions
-- [Charts](#charts)
+- [Charts](#Charts)
   - Chart Types
   - Chart Elements
   - Chart Styles
   - Chart Axes
   - Chart Layouts
   - Chart Templates
-- [Spreadsheets Advanced](#spreadsheets-advanced)
+- [Spreadsheets Advanced](#Spreadsheets-Advanced)
   - Tables
   - Conditional Formatting
   - Formatting
   - Collaboration
-- [Pivot Tables](#pivot-tables)
+- [Pivot Tables](#Pivot-Tables)
   - Pivot Tables
   - Pivot Charts
   - Pivot Tables Advanced
-- [Advanced Data Analysis](#advanced-data-analysis)
+- [Advanced Data Analysis](#Advanced-Data-Analysis)
   - Analysis Add-ins
   - Solver
   - Scenario Manager
   - Goal Seek
   - Data Tables
-- [Power Query](#power-query)
+- [Power Query](#Power-Query)
   - Power Query
   - Power Query Editor
   - Power Query M Language
   - Power Query Advanced
-- [Power Pivot](#power-pivot)
+- [Power Pivot](#Power-Pivot)
   - Power Pivot
   - Power Pivot DAX
   - Power Pivot Data Models
-
-## Course Problem Workbooks
-This section contains the workbooks that you can download and use to follow along with practice problems.
 
 ## Contributing
 Found a typo or have a suggestion? Feel free to contribute:
