@@ -2,9 +2,6 @@
 
 Welcome to my Excel portfolio! This repository showcases a range of sample Excel files that demonstrate my skills in data analysis, spreadsheet design, and advanced Excel functions. Each file is designed as a practice exercise or project, reflecting various aspects of data analytics using Excel.
 
-## Table of Contents
-- [Course Problem Workbooks](#course-problem-workbooks)
-- 
 - [Spreadsheets_Intro](#spreadsheets_intro)
   - Worksheets
   - Workbooks
